@@ -3,5 +3,4 @@
 
 ### Details
 
-Name  *Huzaifa Baloch*
-Email  *huzbaudi3@gmail.com*
+**Huzaifa Baloch**              **huzbaudi3@gmail.com**
