@@ -2,7 +2,10 @@
 ## Python Assignments
 
 ### Details
-[logo]: http://www.pngmart.com/files/7/Python-Transparent-Background.png
+
+
+
+[logo]: http://www.pngmart.com/files/7/Python-Transparent-Background.png "Logo Python"
 
 ..*Name = Huzaifa Baloch
 ..*Email = huzbaudi3@gmail.com
